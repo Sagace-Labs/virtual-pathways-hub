@@ -1,0 +1,42 @@
+[submodule "vp-core"]
+	path = vp-core
+	url = https://github.com/Sagace-Labs/vp-core.git
+[submodule "vp-bsep"]
+	path = vp-bsep
+	url = https://github.com/Sagace-Labs/vp-bsep.git
+[submodule "vp-oxphos"]
+	path = vp-oxphos
+	url = https://github.com/Sagace-Labs/vp-oxphos.git
+[submodule "vp-nrf2"]
+	path = vp-nrf2
+	url = https://github.com/Sagace-Labs/vp-nrf2.git
+[submodule "vp-ahr"]
+	path = vp-ahr
+	url = https://github.com/Sagace-Labs/vp-ahr.git
+[submodule "vp-gr"]
+	path = vp-gr
+	url = https://github.com/Sagace-Labs/vp-gr.git
+[submodule "vp-hsr"]
+	path = vp-hsr
+	url = https://github.com/Sagace-Labs/vp-hsr.git
+[submodule "vp-p53"]
+	path = vp-p53
+	url = https://github.com/Sagace-Labs/vp-p53.git
+[submodule "vp-pxr"]
+	path = vp-pxr
+	url = https://github.com/Sagace-Labs/vp-pxr.git
+[submodule "data-xenobiotic-metabolism"]
+	path = data-xenobiotic-metabolism
+	url = https://github.com/Sagace-Labs/data-xenobiotic-metabolism.git
+[submodule "vp-cyp-inhibition"]
+	path = vp-cyp-inhibition
+	url = https://github.com/Sagace-Labs/vp-cyp-inhibition.git
+[submodule "vp-cyp-substrate"]
+	path = vp-cyp-substrate
+	url = https://github.com/Sagace-Labs/vp-cyp-substrate.git
+[submodule "vp-som"]
+	path = vp-som
+	url = https://github.com/Sagace-Labs/vp-som.git
+[submodule "vp-metabolite"]
+	path = vp-metabolite
+	url = https://github.com/Sagace-Labs/vp-metabolite.git
