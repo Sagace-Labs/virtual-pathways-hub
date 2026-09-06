@@ -1,0 +1,27 @@
+[submodule "vp-core"]
+	path = vp-core
+	url = https://github.com/Sagace-Labs/vp-core.git
+[submodule "vp-bsep"]
+	path = vp-bsep
+	url = https://github.com/Sagace-Labs/vp-bsep.git
+[submodule "vp-oxphos"]
+	path = vp-oxphos
+	url = https://github.com/Sagace-Labs/vp-oxphos.git
+[submodule "vp-nrf2"]
+	path = vp-nrf2
+	url = https://github.com/Sagace-Labs/vp-nrf2.git
+[submodule "vp-ahr"]
+	path = vp-ahr
+	url = https://github.com/Sagace-Labs/vp-ahr.git
+[submodule "vp-gr"]
+	path = vp-gr
+	url = https://github.com/Sagace-Labs/vp-gr.git
+[submodule "vp-hsr"]
+	path = vp-hsr
+	url = https://github.com/Sagace-Labs/vp-hsr.git
+[submodule "vp-p53"]
+	path = vp-p53
+	url = https://github.com/Sagace-Labs/vp-p53.git
+[submodule "vp-pxr"]
+	path = vp-pxr
+	url = https://github.com/Sagace-Labs/vp-pxr.git
